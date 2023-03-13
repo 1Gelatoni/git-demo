@@ -1,2 +1,2 @@
-hello git! hello bell!
+hello git! hello bell! hot-fix test
 hello git! hello bell!
